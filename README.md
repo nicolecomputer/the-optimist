@@ -1,2 +1,3 @@
-# the-optimist
-A news magainze for The Recurse Center W1 2024
+# The Optimist
+
+This is a collection of articles published in news magazine.
