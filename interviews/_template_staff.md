@@ -1,0 +1,4 @@
+- [ ] What’s something about RC most people don’t know?
+- [ ] What’s your favorite spot for food nearby?
+- [ ] How did you come to RC?
+- [ ] Is it true this building is haunted?
