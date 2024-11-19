@@ -1,4 +1,14 @@
-# Jess Chen
+Jesse Chen is an RC'er and has been programming for 18 years.
+How could computers be different? I wish it were easier to dig into how tablets work. A lot of computers in the 80s and 90s (including Macs!) were very malleable. We've lost that ability with closed-platform tablets and phones. We gained security and ease of use but something important was lost.
+Fave website? ncase.me
+Fave computer book? Ra by qntm. It's an alternate history where magic becomes an engineering field.
+How does AI change programming? It'll for sure make it harder to do code reviews and reason about how code works. The next paradism after LLMs will have a lot of potential but it's more than 10 years out. I think it's important to remember that accountants had a strong reaction to spreadsheets and they still have a job. Trying to predict the future is like trying to predict that influencers would have been a thing in early 2000 but overall I'm optimistic.
+First computer loved? An IBM PC AT that my Dad bought at a computer fair.
+Overrated / overused Emoji? Cowboy hat
+
+---
+
+# Jesse Chen
 
 > How long have you been programming?
 

@@ -1,0 +1,5 @@
+"I need to be open to lucky mistakes and put myself in an environment where those mistakes are occurring. IT's a big part of creativity."
+"There is no such thing as being behind at RC"
+"Linux is only free if your time isn't worth anything"
+"Online we need to read things sincerely but not seriously"
+"If something can be played or worked, always play it"

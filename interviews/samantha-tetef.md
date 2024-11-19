@@ -1,3 +1,14 @@
+TTTTTTTTTT is an RC'er and has been programming for TTTTTTTTT years.
+How could computers be different?
+Fave website?
+Fave computer book?
+How does AI change programming?
+First computer loved?
+Overrated / overused Emoji?
+
+---
+
+# Samantha Tetef
 
 > Your name:
 Samantha Tetef, but I also go by Sam!
