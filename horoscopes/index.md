@@ -1,5 +1,7 @@
 # Horoscopes
 
+Trust the random numbers, here's what's ahead for you:
+
 ## January & February
 
 Your system is experiencing performance bottlenecks. This is the perfect moment to invest in personal infrastructure. Consider learning a new programming language, taking an online course, or upgrading your mental toolkit. The lag you're experiencing isn't a bug—it's a feature signaling growth. Whether it's professional development, a new hobby, or expanding your network, now's the time to allocate more memory to your personal development. Don't just debug; optimize.
